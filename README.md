@@ -17,3 +17,8 @@ java.text.NumberFormat.getInstance is an example of Simple Factory
 
 a real example of _Factory Method_ is java.util.Collection.iterator() method
 ![factory-method_uml_diagram](imgs/factory-method.png)
+
+## Abstract Factory
+![abstarct-factory uml diagram](imgs/abstract-factory.png)
+
+Abstract Factory makes use of factory method pattern. You can think of abstract factory as an object with multiple factory methods.
