@@ -22,3 +22,8 @@ a real example of _Factory Method_ is java.util.Collection.iterator() method
 ![abstarct-factory uml diagram](imgs/abstract-factory.png)
 
 Abstract Factory makes use of factory method pattern. You can think of abstract factory as an object with multiple factory methods.
+
+## Singleton
+Eager Singleton / Lazy Singleton / Enum Singleton
+java.lang.Runtime is a singleton
+In eager singleton implementation the singleton instance is created as soon the singleton class is referenced.
